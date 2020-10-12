@@ -1,0 +1,7 @@
+bochsout.txt
+*.bin
+*.lst
+*.o
+.ksize
+init
+idle
